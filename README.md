@@ -1,11 +1,11 @@
-# Codility Challenge: <Challenge Name>
+# Codility Challenge: Yttrium 2019
 
-## <Task Name>
+## DifferentCharacters
 
-- Difficulty: <Difficulty>
-- <Description>
-- <challenge-url>
-- <task-url>
+- Difficulty: Medium
+- Given a string, find the shortest substring that can be removed to yield a string that contains exactly K different characters.
+- <https://app.codility.com/programmers/challenges/yttrium2019/>
+- <https://app.codility.com/programmers/task/different_characters/>
 
 ## Versions
 
@@ -14,11 +14,9 @@
   - `OK`: Correctness 100%, Performance <100%.
   - `Fail`: Correctness <100%, Performance <100%.
 - File naming convention
-  - Code `A`: `Challenge2021A.java`
+  - Code `A`: `Yttrium2021A.java`
   - etc
 
-### Gold Award
-
-| File | Complexity | Result | Report |
-| ---- | ---------- | ------ | ------ |
-| `A`  | `O( )`     | ` `    | [ ]()  |
+| File | Complexity | Result | Report                                                                  |
+| ---- | ---------- | ------ | ----------------------------------------------------------------------- |
+| `A`  | `O(N)`     | `Good` | [WYFSA2-P6J](https://app.codility.com/demo/results/trainingWYFSA2-P6J/) |
